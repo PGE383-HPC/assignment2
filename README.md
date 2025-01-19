@@ -1,6 +1,6 @@
 # Assignment 2
 
-![Assignment 2](https://github.com/PGE383-HPC/assignment2-solution/workflows/.github/workflows/main.yml/badge.svg)
+![Assignment 2](https://github.com/PGE383-HPC/assignment2/workflows/.github/workflows/main.yml/badge.svg)
 
 The aim of this assignment is to continue familiarization with git and basic Unix commands. 
 
