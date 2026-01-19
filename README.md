@@ -35,6 +35,10 @@ The aim of this assignment is to continue familiarization with git and basic Uni
     |   ├── lorem1.txt
     |   ├── lorem2.txt
     |   └── lorem3.txt
+    ├── src/
+    |   ├── assignment2.jl
+    ├── test/
+    |   ├── runtests.jl
     ├── .gitignore
     ├── LICENSE
     ├── README.md
